@@ -1,7 +1,9 @@
 # reading-notes
 Notas de lectura para mis cursos de Enter Tech School.
 ## Autor  
-Anthony H.  
+Anthony Hernández 
+
+**Me gusta** aprender programación y veo un futuro muy fructifero junto a mis profesores que se esstan encargando de ayudarme a desarrollar estas increibles herramientas para llegar a ser un profesional 
 ## Growth Mindset 
 ```
 Es la mentalidad que se adopta al creer que la disciplina
@@ -14,4 +16,10 @@ Es la mentalidad que se adopta al creer que la disciplina
 2. *Jamás rendirse cuando las cosas se tornan dudosas*
 
 3. *Saber que el aprendizaje es una curva y no una linea recta*
+
+### Notas de clases
+
+[102](./102/)
+
+[201](./201/)
 
