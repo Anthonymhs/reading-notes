@@ -1,19 +1,19 @@
 # Read class 5
 
-##¿Que es CSS?
-**Css***(Cascading Style Sheets)* es un lenguaje utilizado para darle estilo a un documento HTML.
-
-## **¿Cómo insertar CSS?
-**CSS tiene tres maneras de ser insertada en el documento HTML
-
-1. De la manera más ordenada es vincular un archivo CSS aparte a tu documento HTML usando la etiqueta  `<>link>`en la secciñon de `<head>`.
-
-2. Aplicando los estilos directamente en el documento HTML usando el atributo style para que se aplique directamente
-
-3. De manera más especifica insertando el CSS en la scección `<head>`de tu documento HTML utilizando la etiqueta `<style>` con un selector.
-
-## Color
-Es un propiedad en CSS que selecciona un color para el contenido de ese elemento del texto o para la decoración del texto y se puede usar como un valor predeterminado para otras propiedades de color.
-
 ## ¿Cúal es el propósito de CSS?
-El proposito de CSS es
+El proposito de CSS es darle un buen diseño y estilo al archivo de HTML.
+
+## ¿Cúales son las 3 formas de insertar CSS en tu proyecto?
+
+1. La mejor forma de insertar CSS en tu proyecto es creando un archivo CSS aparte para proporcionarle las reglas a un selector que va a encacillar los elementos.
+
+2. Otra forma es insertar el atributo `<Style>` para agregar CSS a tu proyecto.
+
+3. Y tambien puedes dictar reglas de CSS dentro del archivo en `<head>`.
+
+
+### Aquí tienes un ejemplo  de una regla CSS que daría texto rojo a todos los elementos `<p>`
+
+`p {
+    color: red;
+}`
