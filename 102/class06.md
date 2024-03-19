@@ -1,4 +1,4 @@
-#Read Class 06
+# Read Class 06
 
 1. **¿Qué son las variables en JavaScript?**
 Las variables en *JavaScript* son contenedores para almacenar datos que pueden ser números, texto, objetos, funciones, o cualquier otro tipo de información que el programa necesite y como su palabralo indica el valor es variados.
