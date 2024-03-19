@@ -12,6 +12,7 @@ h1 {
     background-color:  #D67711;
     text-align: center;
     padding: 30px;
+    color: #000000;
 }
 nav {
     background-color: #efb810;
@@ -21,6 +22,7 @@ ul {
     justify-content: space-around;
     list-style-type: none;
     padding: 20px;
+    color: #000000;
 }
 #hero_image {
     display: block;
