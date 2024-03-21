@@ -30,6 +30,8 @@ function entrenamientoDeUnSayayin() {
 
 
 
+
+
 function despedirse(){
     document.write("Espero que nos volvamos a ver guerrero" + userName + ", no te olvides de entrenar");
 }
