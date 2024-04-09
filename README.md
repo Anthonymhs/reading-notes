@@ -3,7 +3,7 @@ Notas de lectura para mis cursos de Enter Tech School.
 ## Autor  
 Anthony Hernández 
 
-**Me gusta** aprender programación y veo un futuro muy fructifero junto a mis profesores que se esstan encargando de ayudarme a desarrollar estas increibles herramientas para llegar a ser un profesional 
+**Me gusta** aprender programación y veo un futuro muy fructifero junto a mis profesores que se estan encargando de ayudarme a desarrollar estas increibles herramientas para llegar a ser un profesional.
 ## Growth Mindset 
 ```
 Es la mentalidad que se adopta al creer que la disciplina
