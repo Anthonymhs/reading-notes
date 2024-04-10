@@ -21,5 +21,5 @@ Es la mentalidad que se adopta al creer que la disciplina
 
 [102](./102/)
 
-[Code_201](./Code_201/)
+[Code-201](./Code-201/)
 
