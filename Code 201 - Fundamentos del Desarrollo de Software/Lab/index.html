@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preguntas Deportivas</title>
+    <style>
+        h1 {
+            background-color: rgb(144, 129, 235);
+        }
+        main {
+            width: 80%;
+            margin: 0 auto; 
+            text-align: center;         
+        }
+        p {
+            border-radius: 20%;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header></header>
+    <main>
+        <h1>Tu Deporte</h1>
+        <p style="color: rgb(255, 252, 252); background-color: rgb(6, 0, 34);">¿Cuál es tu deporte favorito?</p>
+        <p style="color: rgb(179, 255, 0); background-color: rgb(3, 1, 94);">¿Quién es tu deportista favorito?</p>
+        <p style="color: rgb(252, 180, 180); background-color: rgb(25, 2, 151);">¿Te gusta ver deportes??</p>
+        <p style="color: rgb(2, 255, 2); background-color: rgb(39, 5, 231);">¿Cuál es tu opinión sobre los deportes extremos?</p>
+    </main>
+    <footer>
+        <script>
+            let deporteFavorito = prompt("¿Cuál es tu deporte favorito?");
+            console.log("Deporte Favorito: " + deporteFavorito);
+            alert('hola '+ deporteFavorito + " es increible ");
+
+            let deportistaFavorito = prompt("¿Cúal es tu deportista favorito?");
+            console.log("Deportista Favorito: " + deportistaFavorito);
+            alert(deportistaFavorito + " es de los mejores jugadores ");
+
+            let verDeporte = prompt("¿Te gusta ver ese deporte?");
+            console.log("¿Ve deportes?: " + verDeporte);
+            alert(" Excelente ");
+
+            let edad = prompt("¿Qué edad tienes?");
+            console.log("Opinión sobre Deportes Extremos: " + edad);
+
+            alert("El " + deporteFavorito + ", es un buen deporte y " + deportistaFavorito + ". me parece de los mejores jugadores, a mi tambien me gusta ver ese deporte. Y "  + edad + " es una buena edad para un deportista ");
+        </script>
+    </footer>
+</body>
+</html>
