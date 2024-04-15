@@ -1,6 +1,6 @@
 # Listas en HTML, Control de flujo en JS, y CSS: Box Model
 
-###
+### este contenido es importante para nuestro aprendizaje ya que es la estructura que se desarrolla comunmente para un sitio web.
 
 ## Html
 
