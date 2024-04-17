@@ -64,3 +64,8 @@ Creo firmemente que las mejores ideas y los momentos más productivos los desarr
 * Generar confianza
 
 No hay nada más solido que la confianza a la hora de trabajar, se trabaja mejor y se consiguen resultados beneficiosos.
+
+
+## Cosas de las que quiero saber más
+
+* Cada vez quiero conocer más css y el trabajo en pareja es muy curioso ya que muchos proyectos multimillonarios se han conseguido de esa manera.
