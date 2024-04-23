@@ -41,3 +41,11 @@ El font-size determina el tamaño del texto, el font-weight controla el grosor o
 **Formas de añadir espaciado alrededor de caracteres en un elemento h1:**
 
 Se pueden añadir espacios alrededor de los caracteres en un elemento h1 utilizando la propiedad CSS letter-spacing para ajustar el espacio entre letras, o utilizando la propiedad padding para añadir espacio alrededor del borde del elemento h1 y separarlo de otros elementos. Por ejemplo, letter-spacing: 2px; aumentará el espacio entre las letras en un encabezado h1.
+
+## Cosas de las que quiero saber más
+
+El diseño me parece una parte muy fundamental. Quiero saber entender más sobre el diseño. El otro día estaba repasando un código para crear mi portafolio y entendí que el CSS está mucho más allá de lo que pensaba. Me gustaría saber más sobre cómo combinar CSS con JS para darle animaciones al diseño.
+
+## Fuentes
+
+[Developer.morzilla.org](https://developer.mozilla.org/)
