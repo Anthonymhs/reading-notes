@@ -19,7 +19,7 @@ Es la mentalidad que se adopta al creer que la disciplina
 
 ### Notas de clases
 
-[102](/102/)
+[102](.102/)
 
-[Code-201](/Code-201/README.MD)
+[Code-201](.Code-201/)
 
