@@ -59,3 +59,15 @@ En resumen, this en JavaScript se refiere al contexto de ejecución actual, y su
 Imagina que estás en una cocina y quieres hacer diferentes tipos de pasteles. Cada tipo de pastel tiene su propia receta base (prototipo) que define los ingredientes y pasos comunes. Por ejemplo, la receta base de un pastel de chocolate y la de un pastel de vainilla.
 
 Ahora, si quieres hacer un pastel nuevo, digamos un pastel de fresa, puedes tomar la receta base del pastel de vainilla y agregarle algunas características únicas, como puré de fresas.
+
+## Cosas de las que quiero saber más
+
+Practicar en un escenario real los this para saber un poco más de ellos
+
+## Fuentes
+
+[Dominio](https://github.com/codefellows/domain_modeling#domain-modeling)
+[Conceptos de tablas HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Tables/Basics)
+[Introducción a los constructores](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
+[Prototipos nativos](https://es.javascript.info/native-prototypes)
+[Herencia prototípica](https://es.javascript.info/prototype-inheritance)
