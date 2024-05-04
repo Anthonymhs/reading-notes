@@ -24,3 +24,11 @@ Soporte para diseño bidimensional: Mientras que float es principalmente un mode
 ## 5.¿Cómo es que este tema se conecta con tus metas a largo plazo?
 
 Entender y dominar conceptos como flexbox es importante para mí porque contribuye a mi crecimiento profesional como desarrollador web. Como modelo de diseño moderno, flexbox es ampliamente utilizado en la industria y puede ayudar a crear interfaces de usuario más flexibles y adaptables.
+
+## Cosas de las que quiero saber más
+
+Quisiera saber más sobre el Grid Layout para profundizar un poco mas mi conocimiento en base a CSS y los flexbox.
+
+## Fuentes
+
+[Web.dev](https://web.dev/learn/css/flexbox?hl=es)
