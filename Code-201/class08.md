@@ -1,11 +1,11 @@
 
 # Lecturas: CSS: Layout
 
-## 1.Flexbox está diseñado para contenido unidensional. Explica lo que significa esto.
+## 1.Flexbox está diseñado para contenido unidensional. Explica lo que significa esto
 
 Flexbox o caja flexible esta hecho para ubicar un contenido con grandes cantidades de dimensiones diferentes en un espacio bien distribuido, asi que si es unidimensional, esto significa que puede estar el contenido en una dimensión diferente dentro del codigo.
 
-## 2.Explica la diferencia entre main axis y cross axis.
+## 2.Explica la diferencia entre main axis y cross axis
 
 La diferencia entre el main axis y el cross axis en flexbox radica en su orientación y función dentro del diseño. El main axis es la dirección principal a lo largo de la cual se disponen los elementos flexibles, determinada por la propiedad flex-direction, mientras que el cross axis es la dirección perpendicular al main axis. La propiedad justify-content controla la alineación a lo largo del cross axis cuando los elementos están en una sola línea, mientras que align-items y align-content controlan la alineación en el cross axis cuando los elementos se distribuyen en múltiples líneas.
 
