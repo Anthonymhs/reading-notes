@@ -30,6 +30,8 @@ Estos conceptos juegan un papel crucial en la promoción de la accesibilidad en 
 ### Fuentes
 
 [Canvas - Una introducción](https://w3.unpocodetodo.info/canvas/introduccion.php)
+
 [Uso basico de Canvas](https://developer.mozilla.org/es/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+
 [Chart.js Documentation](http://www.chartjs.org/docs/)
 
