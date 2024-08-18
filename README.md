@@ -1,16 +1,23 @@
 # reading-notes
+
 Notas de lectura para mis cursos de Enter Tech School.
+
 ## Autor  
-Anthony Hernández 
+
+Anthony Hernández
 
 **Me gusta** aprender programación y veo un futuro muy fructifero junto a mis profesores que se estan encargando de ayudarme a desarrollar estas increibles herramientas para llegar a ser un profesional.
-## Growth Mindset 
+
+## Growth Mindset
+
 ```
 Es la mentalidad que se adopta al creer que la disciplina
  y el esfuerzo son la clave del progreso al exito,
  y que el talento son solo empujes al dar el primer paso.
 ```
+
 ## **Como mantener una Growth Mindset**
+
 1. *Cambiar la manera de actuar a las respuestas negativas, dando una respuesta positiva*  
 
 2. *Jamás rendirse cuando las cosas se tornan dudosas*

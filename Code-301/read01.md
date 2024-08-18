@@ -24,7 +24,6 @@ Un componente es un conjunto modular, portátil, reemplazable y reutilizable de 
 5. Mantenimiento y evolución del sistema: Modificaciones sencillas sin afectar el resto del sistema.
 6. Independencia: Desarrollo independiente y flexible de componentes.
 
-
 ## ¿Qué significa “props”?
 
 En React, "props" es una abreviatura de "properties" y se refiere a los datos que se pasan a los componentes como parámetros. Estos datos permiten que un componente acceda a información personalizada para renderizar su contenido de manera dinámica.
