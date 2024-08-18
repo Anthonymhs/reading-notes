@@ -44,4 +44,5 @@ El flujo de los props en React es unidireccional, es decir, los datos fluyen del
 ## Fuentes
 
 1. [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
 2. [What is Props and How to Use it in React](https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/)
