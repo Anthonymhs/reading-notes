@@ -10,8 +10,7 @@ Anthony Hernández
 
 ## Growth Mindset
 
-```
-Es la mentalidad que se adopta al creer que la disciplina
+``` Es la mentalidad que se adopta al creer que la disciplina
  y el esfuerzo son la clave del progreso al exito,
  y que el talento son solo empujes al dar el primer paso.
 ```
